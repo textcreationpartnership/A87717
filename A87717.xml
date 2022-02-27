@@ -1,0 +1,162 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A full and true relation of the great battle fought between the Kings army, and His Excellency, the Earle of Essex, upon the 23. of October last past (being the same day twelve-moneth that the rebellion broke out in Ireland:) sent in a letter from Captain Edward Kightley, now in the army, to his friend Mr. Charles Lathum in Lumbard-street London. Wherein may bee clearely seene what reason the cavaliers have to give thankes for the victory which they had over the Parliaments forces.</title>
+            <author>Kightley, Edward.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87717</idno>
+            <idno type="STC">Wing K427</idno>
+            <idno type="STC">Thomason E126_13</idno>
+            <idno type="STC">ESTC R20129</idno>
+            <idno type="EEBO-CITATION">99861812</idno>
+            <idno type="PROQUEST">99861812</idno>
+            <idno type="VID">113957</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87717)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113957)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 22:E126[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A full and true relation of the great battle fought between the Kings army, and His Excellency, the Earle of Essex, upon the 23. of October last past (being the same day twelve-moneth that the rebellion broke out in Ireland:) sent in a letter from Captain Edward Kightley, now in the army, to his friend Mr. Charles Lathum in Lumbard-street London. Wherein may bee clearely seene what reason the cavaliers have to give thankes for the victory which they had over the Parliaments forces.</title>
+                  <author>Kightley, Edward.</author>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed, November the 4. 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The writer of the letter describes the battle taking place at Kings Field.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Essex, Robert Devereux, --  Earl of, 1591-1646 --  Early works to 1800.</term>
+               <term>Edge Hill (Warwickshire, England) --  History, Military --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113957:1"/>
+            <!-- PDF PAGE 22 -->
+            <pb facs="tcp:113957:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 22 -->
+            <p>A full and true RELATION Of the great Battle fought between the Kings Army, and his Excellency, the Earle of ESSEX, upon the 23. of <hi>Octo<g ref="char:EOLhyphen"/>ber</hi> laſt paſt (being the ſame day twelve-moneth that the Rebellion broke out in IRELAND:)</p>
+            <p>
+               <hi>Sent in a</hi> Letter from Captain <hi>Edward Kightley,</hi> now in the Army, to his friend Mr. <hi>Charles Lathum</hi> in Lumbard-ſtreet London.</p>
+            <p>WHEREIN MAY BEE CLEARELY Seene what reaſon the Cavaliers have to give thankes for the Victory which they had over the Parliaments Forces.</p>
+            <q>
+               <bibl>Judges 5.31.</bibl>
+               <p>So let all thine enemies periſh O Lord, but let them that love him, be as the Sun when he goeth forth in his might.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed, <hi>November</hi> the 4. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:113957:2"/>
+            <!-- PDF PAGE 23 -->
+            <pb n="3" facs="tcp:113957:2"/>
+            <!-- PDF PAGE 23 -->
+            <opener>
+               <salute>
+                  <seg rend="decorInit">L</seg>Oving Couſin,</salute>
+            </opener>
+            <p>I ſhall make ſo neare us I can a true, though long relation of the battell ſought be<g ref="char:EOLhyphen"/>tweene the Kings Army and our Army, under the conduct and command of my Lord Generall: on Saturday <hi>October</hi> 22. our For<g ref="char:EOLhyphen"/>ces were quartered very late, and did lie remote one from the other, and my Lord Ge<g ref="char:EOLhyphen"/>nerall did quarter in a ſmall Village where this Battell was fought, in the field called great Kings field, taking the name from a Battell there fought by King <hi>John</hi> as they ſay: on Sunday the 23. of <hi>October</hi> about one of the Clocke in the after noone, the Battell did be<g ref="char:EOLhyphen"/>gin, and it continued untill it was very darke, the field was very great and large, and the Kings Forces came downe a great and long hill, hee had the advantage of the ground and wind, and they did give a brave charge, and: did fight very valiantly; they were 15. Regi<g ref="char:EOLhyphen"/>ments of Foot, and 60. Regiments of Horſe, our Horſe were under 40. Regiments, and our Foot 11. Regiments: my Lord General did give the firſt charge, preſenting them with 2. pieces of Ordnance, which kil<g ref="char:EOLhyphen"/>led many of their men, and then the enemy did ſhoote one to us, which fell 20. yards ſhort in plowed Land and did no harme, our ſouldiers did many of them run away, to wit, blew Coats, and gray Coats, being two
+<pb n="4" facs="tcp:113957:3"/>
+               <!-- PDF PAGE 24 -->Regiments, and there did runne away, 600. horſe, I was quartered five miles from this place, and heard not any thing of it, untill one of the clocke in the af<g ref="char:EOLhyphen"/>ternoone, I haſted thither with Sergeant Major <hi>Duglis</hi> troope, and over-tooke one other troope, and when I was entring into the field, I thinke 200. horſe came by me with all the ſpeed they could out from the battell, ſaying, that the King had the victory, and that every man cried for God and King <hi>Charles.</hi> I entreated, prayed, and perſwaded them to ſtay, and draw up in a body with our Troopes, for we ſaw them fighting, and the Field was not loſt, but no perſwaſions would ſerve, and then I turning to our three troopes, two of them were runne away, and of my Troope I had not ſix and thirtie men left, but they were likewiſe runne away, I ſtayed with thoſe men I had, being in a little field, and there was a way through, and divers of the enemy did runne that way, both horſe and foote, I tooke away a<g ref="char:EOLhyphen"/>bout tenne or twelve horſe, ſwords, and armour, I could have killed 40. of the enemy, I let them paſſe diſ<g ref="char:EOLhyphen"/>arming them, and giving the ſpoile to my Troopers; the Armies were both in a confuſion, and I could not fall to them without apparent loſſe of my ſelfe and thoſe few which were with me, the powder which the Enemy had was blowne up in the field, the Enemy ran away as well as our men, God did give the victory to us, there are but three men of note ſlain of ours, namely my Lord Saint <hi>John,</hi> Collonell <hi>Eſſex,</hi> and one other Captaine, whoſe name I have forgot; Captaine <hi>Fle<g ref="char:EOLhyphen"/>ming</hi> is either ſlaine or taken priſoner, and his Cornet, he had not one Officer which was a ſouldier, his Wag<g ref="char:EOLhyphen"/>gon and money is loſt, and divers of the Captaines
+<pb n="5" facs="tcp:113957:3"/>
+               <!-- PDF PAGE 24 -->money and Waggons are loſt, to great value, our foote and Dragooneers were the greateſt Pilla<g ref="char:EOLhyphen"/>gers, wee had the Kings Standard one houre and a halfe, and after loſt it againe: Wee did loſe not above three hundred men, the enemy killed the Waggoners, women, and little boyes of twelve yeares of age, wee tooke ſeventeene Co<g ref="char:EOLhyphen"/>lours, and five pieces of Ordnance, I beleeve there were not leſſe then three thouſand of the enemy ſlaine, for they lay on their own ground, twenty, and thirty of heapes together, the King did loſe Lords, and a very great many of Gentlemen, but the certaine number of the ſlaine cannot bee knowne, we did take my Lord of <hi>Lindſey,</hi> Gene<g ref="char:EOLhyphen"/>rall of the Foote, being ſhot in the thigh, who dy<g ref="char:EOLhyphen"/>ed the Tueſday morning following, and his body is ſent away to be buryed, the Lo: <hi>Willoughby</hi> his ſon was taken, <hi>Lunsford, Vavaſour,</hi> and others, being priſoners in Warwick Caſtle; on Munday there did run from the Kings Army 3000. foote, in 40. 50. and 60. in Companies, wee kept the field all Sunday night, and all Munday, and then marched to our quarters, and on Munday the ene<g ref="char:EOLhyphen"/>my would have given us another charge, but they could not get the foote to fight, notwithſtanding they did beate them like dogs, this laſt Relation of the enemy I received from one which was a priſoner and got away.</p>
+            <p>
+               <pb n="6" facs="tcp:113957:4"/>
+               <!-- PDF PAGE 25 -->
+               <hi>Banbury</hi> is taken by the King, there was 1000. Foote in it, the Captaines did run away, and the ſouldiers did deliver the Towne up without diſ<g ref="char:EOLhyphen"/>charging one Musket. It was Gods wonderfull worke that wee had the victory, we expect to march after the King. The day after the Battle all our Forces, horſe and foote were marched up, and other Forces from remote parts, to the num<g ref="char:EOLhyphen"/>ber of 5000. horſe and foote, more then were at the Battle, now at my writing, my Lord Generall is at Warwick, upon our next marching we doe expect another Battle, we here thinke that the King cannot ſtrengthen himſelfe, for the ſouldi<g ref="char:EOLhyphen"/>ers doe ſtill run daily from him, and I believe if we come to fight, a great part of them will never come up to charge. The Kings guard were Gen<g ref="char:EOLhyphen"/>tlemen of good quality, and I have heard it, that there were not above 40. of them which returned out of the field, this is all I ſhall trouble you with, what is more, you will receive it from a better hand then mine: Let us pray one for another, God I hope will open the Kings eyes, and ſend peace to our Kingdome. I pray remember my love to all my friends, if I could write to them all I would, but for ſuch newes I write you, im<g ref="char:EOLhyphen"/>part it to them, my Lieutenant and I drinke to you all daily, all my run-awayes, I ſtop their pay, ſome of them for two dayes, ſome three dayes, and ſome foure dayes, which time they were
+<pb n="7" facs="tcp:113957:4"/>
+               <!-- PDF PAGE 25 -->gone from mee, and give their pay to the reſt of the ſouldiers, two of my ſouldiers are runne away with their Horſe and Armes: I reſt, and commit you to God,</p>
+            <closer>
+               <signed>Your loving Couſin,<hi>Edward Kightley.</hi>
+               </signed>
+            </closer>
+            <postscript>
+               <p>The Rebellion in Ireland, and our Battle were both the 23. of October.</p>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>
